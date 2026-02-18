@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# About Me:
 🔭 Working on full-stack and cloud-based applications<br><br>🌱 Learning DSA, system design basics, and cloud deployment<br><br>👯 Open to collaborate on student projects and hackathons<br><br>💬 Ask me about React, Node.js, MongoDB, and Python<br><br>⚡ Fun fact: I practice coding regularly and enjoy building real-world apps
 
 
